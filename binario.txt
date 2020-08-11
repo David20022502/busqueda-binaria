@@ -1,0 +1,3 @@
+arreglo :12345678910
+elemento a buscar: 2
+ELEMENTO ENCONTRADO EN: 2
